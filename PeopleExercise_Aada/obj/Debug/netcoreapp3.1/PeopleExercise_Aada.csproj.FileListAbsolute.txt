@@ -1,0 +1,14 @@
+C:\Users\Aada\source\repos\AWACADEMY\KoulutusWeek2\PeopleExercise_Aada\PeopleExercise_Aada\obj\Debug\netcoreapp3.1\PeopleExercise_Aada.csproj.AssemblyReference.cache
+C:\Users\Aada\source\repos\AWACADEMY\KoulutusWeek2\PeopleExercise_Aada\PeopleExercise_Aada\obj\Debug\netcoreapp3.1\PeopleExercise_Aada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aada\source\repos\AWACADEMY\KoulutusWeek2\PeopleExercise_Aada\PeopleExercise_Aada\obj\Debug\netcoreapp3.1\PeopleExercise_Aada.AssemblyInfoInputs.cache
+C:\Users\Aada\source\repos\AWACADEMY\KoulutusWeek2\PeopleExercise_Aada\PeopleExercise_Aada\obj\Debug\netcoreapp3.1\PeopleExercise_Aada.AssemblyInfo.cs
+C:\Users\Aada\source\repos\AWACADEMY\KoulutusWeek2\PeopleExercise_Aada\PeopleExercise_Aada\obj\Debug\netcoreapp3.1\PeopleExercise_Aada.csproj.CoreCompileInputs.cache
+C:\Users\Aada\source\repos\AWACADEMY\KoulutusWeek2\PeopleExercise_Aada\PeopleExercise_Aada\bin\Debug\netcoreapp3.1\PeopleExercise_Aada.exe
+C:\Users\Aada\source\repos\AWACADEMY\KoulutusWeek2\PeopleExercise_Aada\PeopleExercise_Aada\bin\Debug\netcoreapp3.1\PeopleExercise_Aada.deps.json
+C:\Users\Aada\source\repos\AWACADEMY\KoulutusWeek2\PeopleExercise_Aada\PeopleExercise_Aada\bin\Debug\netcoreapp3.1\PeopleExercise_Aada.runtimeconfig.json
+C:\Users\Aada\source\repos\AWACADEMY\KoulutusWeek2\PeopleExercise_Aada\PeopleExercise_Aada\bin\Debug\netcoreapp3.1\PeopleExercise_Aada.runtimeconfig.dev.json
+C:\Users\Aada\source\repos\AWACADEMY\KoulutusWeek2\PeopleExercise_Aada\PeopleExercise_Aada\bin\Debug\netcoreapp3.1\PeopleExercise_Aada.dll
+C:\Users\Aada\source\repos\AWACADEMY\KoulutusWeek2\PeopleExercise_Aada\PeopleExercise_Aada\bin\Debug\netcoreapp3.1\PeopleExercise_Aada.pdb
+C:\Users\Aada\source\repos\AWACADEMY\KoulutusWeek2\PeopleExercise_Aada\PeopleExercise_Aada\obj\Debug\netcoreapp3.1\PeopleExercise_Aada.dll
+C:\Users\Aada\source\repos\AWACADEMY\KoulutusWeek2\PeopleExercise_Aada\PeopleExercise_Aada\obj\Debug\netcoreapp3.1\PeopleExercise_Aada.pdb
+C:\Users\Aada\source\repos\AWACADEMY\KoulutusWeek2\PeopleExercise_Aada\PeopleExercise_Aada\obj\Debug\netcoreapp3.1\PeopleExercise_Aada.genruntimeconfig.cache
